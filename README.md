@@ -5,6 +5,8 @@
 
 Com funcionalidades de transcrição automática e organização de conteúdos, o aplicativo facilita o acesso às informações educacionais, promovendo inclusão e acessibilidade no ambiente acadêmico. 🚀✨
 
+Este aplicativo faz parte das atividades desenvolvidades no projeto da Software House do curso de Tecnologia em Análise e Desenvolvimento de Sistemas, do Instituto Federal do Paraná no Campus Irati.
+
 
 📌 Principais Recursos:
 - ✅ Transcrição em tempo real para acompanhar as aulas sem barreiras.
