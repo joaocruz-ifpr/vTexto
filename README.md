@@ -26,7 +26,7 @@ Seja parte da revolução da acessibilidade na educação! 🎓💡
 
 
 ## Screenshots
-
+<p align="center">
 <img src="/telas/screen_01.jpeg?raw=true" alt="Screen_01" width="150">
 <img src="/telas/screen_02.jpeg?raw=true" alt="Screen_02" width="150">
 <img src="/telas/screen_03.jpeg?raw=true" alt="Screen_03" width="150">
@@ -39,3 +39,4 @@ Seja parte da revolução da acessibilidade na educação! 🎓💡
 <img src="/telas/tour_05.jpeg?raw=true" alt="Tour_05" width="150">
 <img src="/telas/tour_06.jpeg?raw=true" alt="Tour_06" width="150">
 <img src="/telas/tour_07.jpeg?raw=true" alt="Tour_07" width="150">
+</p>
