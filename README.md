@@ -24,3 +24,7 @@ Seja parte da revolução da acessibilidade na educação! 🎓💡
 - [@JoaoTrog1](https://github.com/JoaoTrog1)
 - [@NathanPatrzyk](https://github.com/NathanPatrzyk)
 
+
+## Screenshots
+
+![Alt text](/telas/screen_01.jpeg?raw=true "Screen_01")
