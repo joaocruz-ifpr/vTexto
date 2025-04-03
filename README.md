@@ -27,5 +27,15 @@ Seja parte da revolução da acessibilidade na educação! 🎓💡
 
 ## Screenshots
 
-![Alt text](/telas/screen_01.jpeg?raw=true "Screen_01")
-<img src="/telas/screen_02.jpeg?raw=true" alt="Screen_02" width="300">
+<img src="/telas/screen_01.jpeg?raw=true" alt="Screen_01" width="150">
+<img src="/telas/screen_02.jpeg?raw=true" alt="Screen_02" width="150">
+<img src="/telas/screen_03.jpeg?raw=true" alt="Screen_03" width="150">
+<img src="/telas/screen_04.jpeg?raw=true" alt="Screen_04" width="150">
+<img src="/telas/screen_05.jpeg?raw=true" alt="Screen_05" width="150">
+<img src="/telas/tour_01.jpeg?raw=true" alt="Tour_01" width="150">
+<img src="/telas/tour_02.jpeg?raw=true" alt="Tour_02" width="150">
+<img src="/telas/tour_03.jpeg?raw=true" alt="Tour_03" width="150">
+<img src="/telas/tour_04.jpeg?raw=true" alt="Tour_04" width="150">
+<img src="/telas/tour_05.jpeg?raw=true" alt="Tour_05" width="150">
+<img src="/telas/tour_06.jpeg?raw=true" alt="Tour_06" width="150">
+<img src="/telas/tour_07.jpeg?raw=true" alt="Tour_07" width="150">
