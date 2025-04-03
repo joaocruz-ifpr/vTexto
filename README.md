@@ -9,11 +9,12 @@ Este aplicativo faz parte das atividades desenvolvidades no projeto da Software 
 
 
 📌 Principais Recursos:
-- ✅ Transcrição em tempo real para acompanhar as aulas sem barreiras.
-- ✅ Armazenamento seguro para acesso posterior ao conteúdo.
-- ✅ Organização eficiente por matérias e datas.
-- ✅ Interface intuitiva e acessível para todos os usuários.
-
+```
+✅ Transcrição em tempo real para acompanhar as aulas sem barreiras.
+✅ Armazenamento seguro para acesso posterior ao conteúdo.
+✅ Organização eficiente por matérias e datas.
+✅ Interface intuitiva e acessível para todos os usuários.
+```
 Seja parte da revolução da acessibilidade na educação! 🎓💡
 
 ## Autores
