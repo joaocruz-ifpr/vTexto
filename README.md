@@ -28,3 +28,4 @@ Seja parte da revolução da acessibilidade na educação! 🎓💡
 ## Screenshots
 
 ![Alt text](/telas/screen_01.jpeg?raw=true "Screen_01")
+<img src="/telas/screen_02.jpeg?raw=true" alt="Screen_02" width="300">
